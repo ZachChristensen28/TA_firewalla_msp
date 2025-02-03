@@ -1,0 +1,1 @@
+FIREWALLA_DEVICES_ENDPOINT = 'v2/devices'
